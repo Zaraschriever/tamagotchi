@@ -1,0 +1,98 @@
+body {
+  background-color: lightblue;
+}
+
+.confetti {
+  background-image: url(https://i.gifer.com/6k2.gif);
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  color: lightpink;
+  text-align: center;
+  margin-top: 20px;
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 50px;
+  color: lightpink;
+  text-align: center;
+  margin-top: 20px;
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+img.kom {
+  width: 300px;
+  margin-left: 39%;
+  margin-top: 17%;
+  position: absolute;
+}
+
+img#ei {
+  width: 140px;
+  margin-left: 40%;
+  margin-top: 40px;
+  position: absolute;
+}
+
+img#meel {
+  width: 140px;
+  margin-left: 10%;
+  margin-top: 270px;
+  position: absolute;
+}
+
+img#suiker {
+  width: 180px;
+  margin-left: 51%;
+  margin-top: 40px;
+  position: absolute;
+}
+
+img#melk {
+  width: 50px;
+  margin-left: 80%;
+  margin-top: 300px;
+  position: absolute;
+}
+
+img#aardbei {
+  width: 100px;
+  margin-left: 71%;
+  margin-top: 170px;
+  position: absolute;
+}
+
+img#boter {
+  width: 150px;
+  margin-left: 28%;
+  margin-top: 80px;
+  position: absolute;
+}
+
+img#bessen {
+  width: 120px;
+  margin-left: 18%;
+  margin-top: 150px;
+  position: absolute;
+}
+
+img#glazuur {
+  width: 80px;
+  margin-left: 63%;
+  margin-top: 100px;
+  position: absolute;
+}
+
+button {
+  margin-top: 38%;
+  margin-left: 46%;
+  padding: 10px 40px;
+  border: 1px solid black;
+  border-radius: 8px;
+  background: lightpink;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
